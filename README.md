@@ -33,3 +33,14 @@ This project analyzes retail sales data using SQL to identify revenue trends, to
 
 ## Project Outcome
 This project demonstrates skills in SQL querying, business analysis, data exploration, and data visualization. It shows how sales data can be used to support business decision-making.
+
+## Visualizations
+
+### Sales by Region
+![Sales by Region](Total Sales vs. Region.png)
+
+### Sales by Category
+![Sales by Category](Total Sales vs. Category.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](Monthly Sales vs. Month.png)
